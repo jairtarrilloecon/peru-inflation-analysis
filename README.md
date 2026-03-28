@@ -1,3 +1,35 @@
+# 🇵🇪 Análisis de inflación y poder adquisitivo en Perú
+
+## 📌 Descripción
+Este proyecto analiza la inflación en Perú y su impacto en el poder adquisitivo utilizando datos oficiales del BCRP.
+
+## 🎯 Objetivo
+Entender cómo la inflación afecta el ingreso real y cuantificar la pérdida de poder adquisitivo en el tiempo.
+
+## 📊 Fuente de datos
+- Banco Central de Reserva del Perú (BCRP)
+- Inflación (año a año)
+- Índice de Precios al Consumidor (IPC)
+
+## 🛠 Herramientas utilizadas
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 💡 Ideas clave
+- La inflación alcanzó aproximadamente 8.8% en 2022
+- El poder adquisitivo se redujo significativamente (~25%)
+- Eventos globales (COVID, crisis logística, guerra) impactaron la inflación
+
+## 📉 Conclusión
+La inflación tiene un impacto directo en el poder adquisitivo real, reduciendo la capacidad de consumo y afectando la estabilidad económica.
+
+## 📂 Archivo del proyecto
+- `01_inflacion_peru_template.ipynb`
+
+---
+
 # 🇵🇪 Analysis of inflation and purchasing power in Peru
 
 ## Overview
